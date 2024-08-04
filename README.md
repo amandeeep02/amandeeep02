@@ -60,12 +60,12 @@
 <div align="center">
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amandeeep02&" alt="amandeeep02" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeeep02&show_icons=true&locale=en" alt="amandeeep02" /></p>
+<p><img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amandeeep02&" alt="amandeeep02" /></p>
+<p>&nbsp;<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=amandeeep02&show_icons=true&locale=en" alt="amandeeep02" /></p>
 
 
-<img width="49%" align="left" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/1b87675c-2bba-4a34-95e6-f08277db4823.svg"/>
-<img width="49%" align="center" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/b2eac925-e4b6-48a0-b640-69eacd3bf498.svg"/>
+<img width=45% align="left" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/1b87675c-2bba-4a34-95e6-f08277db4823.svg"/>
+<img width=45% align="center" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/b2eac925-e4b6-48a0-b640-69eacd3bf498.svg"/>
 
 </div>
 
