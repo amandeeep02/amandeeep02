@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://github.com/amandeeep02/amandeeep02/blob/main/github-header-image%20(8).png" alt="header-img" />
+<img width="100%" src="https://github.com/amandeeep02/amandeeep02/blob/main/GH-header.png" alt="header-img" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Amandeep Singh Rathod</h1>
